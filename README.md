@@ -1,5 +1,5 @@
 # 世界之窗
-- [**全能型**](https://github.com/Alvin9999/new-pac/wiki)
+- [**浏览器**](https://github.com/Alvin9999/new-pac/wiki)
 - [**goproxy最后一个版本**](https://github.com/goproxy0/prom-releases)
 - [**goproxy原作者主页已删除**](https://github.com/phuslu/goproxy)
 - [**goproxy服务端Appid英文控制台（Applications Overview）**](https://appengine.google.com/)
